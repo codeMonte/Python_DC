@@ -1,5 +1,7 @@
 .DS_Store
 
-/WebDriver
-
 /**/Data
+
+.ipynb_checkpoints
+
+/WebDriver
